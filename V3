@@ -1,0 +1,1741 @@
+import random
+import sys
+videogame = random.randint(1, 55)
+if videogame == 1:
+        MOD = "it was a mod"
+        DLC = "it's not a DLC"
+        GAMENAME = "Garry's mod"
+        CAM = "first person"
+        MODE = "singleplayer,Multiplayer"
+        ENGINE = "Source"
+        COMPANY = "Facepunch Studios"
+        CONSOLES = "Pc"
+        YEAR = "2006"
+        GENRE = "Sandbox"
+        HINT = random.randint(1,7)
+        if HINT == 1:
+            print(YEAR)
+        elif HINT == 2:
+            print(CAM)
+        elif HINT == 3:
+            print(MODE)
+        elif HINT == 4:
+            print("runs on the",ENGINE,"engine")
+        elif HINT == 5:
+            print("made by",COMPANY)
+        elif HINT == 6:
+            print("released on the",CONSOLES)
+        elif HINT == 7:
+            print(GENRE)
+        else:
+            print("error",HINT)
+        Attempt1 = input("Guess the videogame: ")
+        if Attempt1 == GAMENAME:
+            print("correct")
+            sys.exit()
+        else:
+            print("wrong")
+            HINT = random.randint(1,7)
+            if HINT == 1:
+               print(YEAR)
+            elif HINT == 2:
+               print(CAM)
+            elif HINT == 3:
+               print(MODE)
+            elif HINT == 4:
+               print("runs on the",ENGINE,"engine")
+            elif HINT == 5:
+               print("made by",COMPANY)
+            elif HINT == 6:
+                print("released on the",CONSOLES)
+            elif HINT == 7:
+                print(GENRE)
+            else:
+               print("error",HINT)
+        Attempt2 = input("guess the videogame: ")
+        if Attempt2 == GAMENAME:
+            print("correct ")
+            sys.exit()
+        else:
+            print("wrong ")
+            HINT = random.randint(1,7)
+            if HINT == 1:
+               print(YEAR)
+            elif HINT == 2:
+               print(CAM)
+            elif HINT == 3:
+               print(MODE)
+            elif HINT == 4:
+               print("runs on the",ENGINE,"engine")
+            elif HINT == 5:
+               print("made by",COMPANY)
+            elif HINT == 6:
+                print("released on the",CONSOLES)
+            elif HINT == 7:
+                print(GENRE)
+            else:
+               print("error",HINT)
+        Attempt3 = input("guess the videogame: ")
+        if Attempt3 == GAMENAME:
+            print("correct")
+            sys.exit()
+        else:
+            print("wrong")
+            HINT = random.randint(1,7)
+            if HINT == 1:
+               print(YEAR)
+            elif HINT == 2:
+               print(CAM)
+            elif HINT == 3:
+               print(MODE)
+            elif HINT == 4:
+               print("runs on the",ENGINE,"engine")
+            elif HINT == 5:
+               print("made by",COMPANY)
+            elif HINT == 6:
+                print("released on the",CONSOLES)
+            elif HINT == 7:
+                print(GENRE)
+            else:
+               print("error",HINT)
+        Attempt4 = input("guess the videogame: ")
+        if Attempt4 == GAMENAME:
+            print("correct ")
+            sys.exit()
+        else:
+            print("wrong ")
+            HINT = random.randint(1,7)
+            if HINT == 1:
+               print(YEAR)
+            elif HINT == 2:
+               print(CAM)
+            elif HINT == 3:
+               print(MODE)
+            elif HINT == 4:
+               print("runs on the",ENGINE,"engine")
+            elif HINT == 5:
+               print("made by",COMPANY)
+            elif HINT == 6:
+                print("released on the",CONSOLES)
+            elif HINT == 7:
+                print(GENRE)
+            else:
+               print("error",HINT)
+        Attempt5 = input("guess the videogame: ")
+        if Attempt5 == GAMENAME:
+            print("correct")
+            sys.exit()
+        else:
+            print("wrong the game was", GAMENAME)
+elif videogame == 2:
+        GAMENAME = "Half-life"
+        CAM = "first person"
+        MODE = "singleplayer"
+        ENGINE = "GoldSource"
+        COMPANY = "Valve"
+        CONSOLES = "Pc, Playstation 2"
+        YEAR = "1998"
+        GENRE = "Shooter"
+        HINT = random.randint(1,7)
+        if HINT == 1:
+            print(YEAR)
+        elif HINT == 2:
+            print(CAM)
+        elif HINT == 3:
+            print(MODE)
+        elif HINT == 4:
+            print("runs on the",ENGINE,"engine")
+        elif HINT == 5:
+            print("made by",COMPANY)
+        elif HINT == 6:
+            print("released on the",CONSOLES)
+        elif HINT == 7:
+            print(GENRE)
+        else:
+            print("error",HINT)
+        Attempt1 = input("Guess the videogame: ")
+        if Attempt1 == GAMENAME:
+            print("correct")
+            sys.exit()
+        else:
+            print("wrong")
+            HINT = random.randint(1,7)
+            if HINT == 1:
+               print(YEAR)
+            elif HINT == 2:
+               print(CAM)
+            elif HINT == 3:
+               print(MODE)
+            elif HINT == 4:
+               print("runs on the",ENGINE,"engine")
+            elif HINT == 5:
+               print("made by",COMPANY)
+            elif HINT == 6:
+                print("released on the",CONSOLES)
+            elif HINT == 7:
+                print(GENRE)
+            else:
+               print("error",HINT)
+        Attempt2 = input("guess the videogame: ")
+        if Attempt2 == GAMENAME:
+            print("correct ")
+            sys.exit()
+        else:
+            print("wrong ")
+            HINT = random.randint(1,7)
+            if HINT == 1:
+               print(YEAR)
+            elif HINT == 2:
+               print(CAM)
+            elif HINT == 3:
+               print(MODE)
+            elif HINT == 4:
+               print("runs on the",ENGINE,"engine")
+            elif HINT == 5:
+               print("made by",COMPANY)
+            elif HINT == 6:
+                print("released on the",CONSOLES)
+            elif HINT == 7:
+                print(GENRE)
+            else:
+               print("error",HINT)
+        Attempt3 = input("guess the videogame: ")
+        if Attempt3 == GAMENAME:
+            print("correct")
+            sys.exit()
+        else:
+            print("wrong")
+            HINT = random.randint(1,7)
+            if HINT == 1:
+               print(YEAR)
+            elif HINT == 2:
+               print(CAM)
+            elif HINT == 3:
+               print(MODE)
+            elif HINT == 4:
+               print("runs on the",ENGINE,"engine")
+            elif HINT == 5:
+               print("made by",COMPANY)
+            elif HINT == 6:
+                print("released on the",CONSOLES)
+            elif HINT == 7:
+                print(GENRE)
+            else:
+               print("error",HINT)
+        Attempt4 = input("guess the videogame: ")
+        if Attempt4 == GAMENAME:
+            print("correct ")
+            sys.exit()
+        else:
+            print("wrong ")
+            HINT = random.randint(1,7)
+            if HINT == 1:
+               print(YEAR)
+            elif HINT == 2:
+               print(CAM)
+            elif HINT == 3:
+               print(MODE)
+            elif HINT == 4:
+               print("runs on the",ENGINE,"engine")
+            elif HINT == 5:
+               print("made by",COMPANY)
+            elif HINT == 6:
+                print("released on the",CONSOLES)
+            elif HINT == 7:
+                print(GENRE)
+            else:
+               print("error",HINT)
+        Attempt5 = input("guess the videogame: ")
+        if Attempt5 == GAMENAME:
+            print("correct")
+            sys.exit()
+        else:
+            print("wrong the game was", GAMENAME)
+elif videogame == 3:
+        GAMENAME = "Half-life 2"
+        CAM = "first person"
+        MODE = "singleplayer"
+        ENGINE = "Source"
+        COMPANY = "Valve"
+        CONSOLES = "Pc, xbox, xbox 360, Playstation 3"
+        YEAR = "2004"
+        GENRE = "Shooter"
+        HINT = random.randint(1,7)
+        if HINT == 1:
+            print(YEAR)
+        elif HINT == 2:
+            print(CAM)
+        elif HINT == 3:
+            print(MODE)
+        elif HINT == 4:
+            print("runs on the",ENGINE,"engine")
+        elif HINT == 5:
+            print("made by",COMPANY)
+        elif HINT == 6:
+            print("released on the",CONSOLES)
+        elif HINT == 7:
+            print(GENRE)
+        else:
+            print("error",HINT)
+        Attempt1 = input("Guess the videogame: ")
+        if Attempt1 == GAMENAME:
+            print("correct")
+            sys.exit()
+        else:
+            print("wrong")
+            HINT = random.randint(1,7)
+            if HINT == 1:
+               print(YEAR)
+            elif HINT == 2:
+               print(CAM)
+            elif HINT == 3:
+               print(MODE)
+            elif HINT == 4:
+               print("runs on the",ENGINE,"engine")
+            elif HINT == 5:
+               print("made by",COMPANY)
+            elif HINT == 6:
+                print("released on the",CONSOLES)
+            elif HINT == 7:
+                print(GENRE)
+            else:
+               print("error",HINT)
+        Attempt2 = input("guess the videogame: ")
+        if Attempt2 == GAMENAME:
+            print("correct ")
+            sys.exit()
+        else:
+            print("wrong ")
+            HINT = random.randint(1,7)
+            if HINT == 1:
+               print(YEAR)
+            elif HINT == 2:
+               print(CAM)
+            elif HINT == 3:
+               print(MODE)
+            elif HINT == 4:
+               print("runs on the",ENGINE,"engine")
+            elif HINT == 5:
+               print("made by",COMPANY)
+            elif HINT == 6:
+                print("released on the",CONSOLES)
+            elif HINT == 7:
+                print(GENRE)
+            else:
+               print("error",HINT)
+        Attempt3 = input("guess the videogame: ")
+        if Attempt3 == GAMENAME:
+            print("correct")
+            sys.exit()
+        else:
+            print("wrong")
+            HINT = random.randint(1,7)
+            if HINT == 1:
+               print(YEAR)
+            elif HINT == 2:
+               print(CAM)
+            elif HINT == 3:
+               print(MODE)
+            elif HINT == 4:
+               print("runs on the",ENGINE,"engine")
+            elif HINT == 5:
+               print("made by",COMPANY)
+            elif HINT == 6:
+                print("released on the",CONSOLES)
+            elif HINT == 7:
+                print(GENRE)
+            else:
+               print("error",HINT)
+        Attempt4 = input("guess the videogame: ")
+        if Attempt4 == GAMENAME:
+            print("correct ")
+            sys.exit()
+        else:
+            print("wrong ")
+            HINT = random.randint(1,7)
+            if HINT == 1:
+               print(YEAR)
+            elif HINT == 2:
+               print(CAM)
+            elif HINT == 3:
+               print(MODE)
+            elif HINT == 4:
+               print("runs on the",ENGINE,"engine")
+            elif HINT == 5:
+               print("made by",COMPANY)
+            elif HINT == 6:
+                print("released on the",CONSOLES)
+            elif HINT == 7:
+                print(GENRE)
+            else:
+               print("error",HINT)
+        Attempt5 = input("guess the videogame: ")
+        if Attempt5 == GAMENAME:
+            print("correct")
+            sys.exit()
+        else:
+            print("wrong the game was", GAMENAME)
+elif videogame == 4:
+        print("Club Penguin")
+elif videogame == 5:
+        print("Minecraft")
+        GAMENAME = "Minecraft"
+        CAM = "first person,third person"
+        MODE = "singleplayer,Multiplayer"
+        ENGINE = "Lightweight Java Game Library"
+        COMPANY = "Mojang Studios"
+        CONSOLES = "Pc, Xbox 360, Xbox One, Xbox Series X/S, PlayStation 3, PlayStation 4, PlayStation 5, PlayStation Vita, Nintendo Switch, Wii U,New Nintendo 3DS"
+        YEAR = "2011"
+        GENRE = "Sandbox,Survival"
+        HINT = random.randint(1,7)
+        if HINT == 1:
+            print(YEAR)
+        elif HINT == 2:
+            print(CAM)
+        elif HINT == 3:
+            print(MODE)
+        elif HINT == 4:
+            print("runs on the",ENGINE,"engine")
+        elif HINT == 5:
+            print("made by",COMPANY)
+        elif HINT == 6:
+            print("released on the",CONSOLES)
+        elif HINT == 7:
+            print(GENRE)
+        else:
+            print("error",HINT)
+        Attempt1 = input("Guess the videogame: ")
+        if Attempt1 == GAMENAME:
+            print("correct")
+            sys.exit()
+        else:
+            print("wrong")
+            HINT = random.randint(1,7)
+            if HINT == 1:
+               print(YEAR)
+            elif HINT == 2:
+               print(CAM)
+            elif HINT == 3:
+               print(MODE)
+            elif HINT == 4:
+               print("runs on the",ENGINE,"engine")
+            elif HINT == 5:
+               print("made by",COMPANY)
+            elif HINT == 6:
+                print("released on the",CONSOLES)
+            elif HINT == 7:
+                print(GENRE)
+            else:
+               print("error",HINT)
+        Attempt2 = input("guess the videogame: ")
+        if Attempt2 == GAMENAME:
+            print("correct ")
+            sys.exit()
+        else:
+            print("wrong ")
+            HINT = random.randint(1,7)
+            if HINT == 1:
+               print(YEAR)
+            elif HINT == 2:
+               print(CAM)
+            elif HINT == 3:
+               print(MODE)
+            elif HINT == 4:
+               print("runs on the",ENGINE,"engine")
+            elif HINT == 5:
+               print("made by",COMPANY)
+            elif HINT == 6:
+                print("released on the",CONSOLES)
+            elif HINT == 7:
+                print(GENRE)
+            else:
+               print("error",HINT)
+        Attempt3 = input("guess the videogame: ")
+        if Attempt3 == GAMENAME:
+            print("correct")
+            sys.exit()
+        else:
+            print("wrong")
+            HINT = random.randint(1,7)
+            if HINT == 1:
+               print(YEAR)
+            elif HINT == 2:
+               print(CAM)
+            elif HINT == 3:
+               print(MODE)
+            elif HINT == 4:
+               print("runs on the",ENGINE,"engine")
+            elif HINT == 5:
+               print("made by",COMPANY)
+            elif HINT == 6:
+                print("released on the",CONSOLES)
+            elif HINT == 7:
+                print(GENRE)
+            else:
+               print("error",HINT)
+        Attempt4 = input("guess the videogame: ")
+        if Attempt4 == GAMENAME:
+            print("correct ")
+            sys.exit()
+        else:
+            print("wrong ")
+            HINT = random.randint(1,7)
+            if HINT == 1:
+               print(YEAR)
+            elif HINT == 2:
+               print(CAM)
+            elif HINT == 3:
+               print(MODE)
+            elif HINT == 4:
+               print("runs on the",ENGINE,"engine")
+            elif HINT == 5:
+               print("made by",COMPANY)
+            elif HINT == 6:
+                print("released on the",CONSOLES)
+            elif HINT == 7:
+                print(GENRE)
+            else:
+               print("error",HINT)
+        Attempt5 = input("guess the videogame: ")
+        if Attempt5 == GAMENAME:
+            print("correct")
+            sys.exit()
+        else:
+            print("wrong the game was", GAMENAME)
+elif videogame == 6:
+        print("Roblox")
+elif videogame == 7:
+        GAMENAME = "Left 4 Dead"
+        CAM = "first person"
+        MODE = "singleplayer,Multiplayer"
+        ENGINE = "Source"
+        COMPANY = "Valve"
+        CONSOLES = "Pc, Xbox 360"
+        YEAR = "2008"
+        GENRE = "Survival Horror,Shooter"
+        HINT = random.randint(1,7)
+        if HINT == 1:
+            print(YEAR)
+        elif HINT == 2:
+            print(CAM)
+        elif HINT == 3:
+            print(MODE)
+        elif HINT == 4:
+            print("runs on the",ENGINE,"engine")
+        elif HINT == 5:
+            print("made by",COMPANY)
+        elif HINT == 6:
+            print("released on the",CONSOLES)
+        elif HINT == 7:
+            print(GENRE)
+        else:
+            print("error",HINT)
+        Attempt1 = input("Guess the videogame: ")
+        if Attempt1 == GAMENAME:
+            print("correct")
+            sys.exit()
+        else:
+            print("wrong")
+            HINT = random.randint(1,7)
+            if HINT == 1:
+               print(YEAR)
+            elif HINT == 2:
+               print(CAM)
+            elif HINT == 3:
+               print(MODE)
+            elif HINT == 4:
+               print("runs on the",ENGINE,"engine")
+            elif HINT == 5:
+               print("made by",COMPANY)
+            elif HINT == 6:
+                print("released on the",CONSOLES)
+            elif HINT == 7:
+                print(GENRE)
+            else:
+               print("error",HINT)
+        Attempt2 = input("guess the videogame: ")
+        if Attempt2 == GAMENAME:
+            print("correct ")
+            sys.exit()
+        else:
+            print("wrong ")
+            HINT = random.randint(1,7)
+            if HINT == 1:
+               print(YEAR)
+            elif HINT == 2:
+               print(CAM)
+            elif HINT == 3:
+               print(MODE)
+            elif HINT == 4:
+               print("runs on the",ENGINE,"engine")
+            elif HINT == 5:
+               print("made by",COMPANY)
+            elif HINT == 6:
+                print("released on the",CONSOLES)
+            elif HINT == 7:
+                print(GENRE)
+            else:
+               print("error",HINT)
+        Attempt3 = input("guess the videogame: ")
+        if Attempt3 == GAMENAME:
+            print("correct")
+            sys.exit()
+        else:
+            print("wrong")
+            HINT = random.randint(1,7)
+            if HINT == 1:
+               print(YEAR)
+            elif HINT == 2:
+               print(CAM)
+            elif HINT == 3:
+               print(MODE)
+            elif HINT == 4:
+               print("runs on the",ENGINE,"engine")
+            elif HINT == 5:
+               print("made by",COMPANY)
+            elif HINT == 6:
+                print("released on the",CONSOLES)
+            elif HINT == 7:
+                print(GENRE)
+            else:
+               print("error",HINT)
+        Attempt4 = input("guess the videogame: ")
+        if Attempt4 == GAMENAME:
+            print("correct ")
+            sys.exit()
+        else:
+            print("wrong ")
+            HINT = random.randint(1,7)
+            if HINT == 1:
+               print(YEAR)
+            elif HINT == 2:
+               print(CAM)
+            elif HINT == 3:
+               print(MODE)
+            elif HINT == 4:
+               print("runs on the",ENGINE,"engine")
+            elif HINT == 5:
+               print("made by",COMPANY)
+            elif HINT == 6:
+                print("released on the",CONSOLES)
+            elif HINT == 7:
+                print(GENRE)
+            else:
+               print("error",HINT)
+        Attempt5 = input("guess the videogame: ")
+        if Attempt5 == GAMENAME:
+            print("correct")
+            sys.exit()
+        else:
+            print("wrong the game was", GAMENAME)
+elif videogame == 8:
+        GAMENAME = "Team Fortress 2"
+        CAM = "first person"
+        MODE = "Multiplayer"
+        ENGINE = "Source"
+        COMPANY = "Valve"
+        CONSOLES = "Pc, Xbox 360, Playstation 3"
+        YEAR = "2007"
+        GENRE = "Shooter"
+        HINT = random.randint(1,7)
+        if HINT == 1:
+            print(YEAR)
+        elif HINT == 2:
+            print(CAM)
+        elif HINT == 3:
+            print(MODE)
+        elif HINT == 4:
+            print("runs on the",ENGINE,"engine")
+        elif HINT == 5:
+            print("made by",COMPANY)
+        elif HINT == 6:
+            print("released on the",CONSOLES)
+        elif HINT == 7:
+            print(GENRE)
+        else:
+            print("error",HINT)
+        Attempt1 = input("Guess the videogame: ")
+        if Attempt1 == GAMENAME:
+            print("correct")
+            sys.exit()
+        else:
+            print("wrong")
+            HINT = random.randint(1,7)
+            if HINT == 1:
+               print(YEAR)
+            elif HINT == 2:
+               print(CAM)
+            elif HINT == 3:
+               print(MODE)
+            elif HINT == 4:
+               print("runs on the",ENGINE,"engine")
+            elif HINT == 5:
+               print("made by",COMPANY)
+            elif HINT == 6:
+                print("released on the",CONSOLES)
+            elif HINT == 7:
+                print(GENRE)
+            else:
+               print("error",HINT)
+        Attempt2 = input("guess the videogame: ")
+        if Attempt2 == GAMENAME:
+            print("correct ")
+            sys.exit()
+        else:
+            print("wrong ")
+            HINT = random.randint(1,7)
+            if HINT == 1:
+               print(YEAR)
+            elif HINT == 2:
+               print(CAM)
+            elif HINT == 3:
+               print(MODE)
+            elif HINT == 4:
+               print("runs on the",ENGINE,"engine")
+            elif HINT == 5:
+               print("made by",COMPANY)
+            elif HINT == 6:
+                print("released on the",CONSOLES)
+            elif HINT == 7:
+                print(GENRE)
+            else:
+               print("error",HINT)
+        Attempt3 = input("guess the videogame: ")
+        if Attempt3 == GAMENAME:
+            print("correct")
+            sys.exit()
+        else:
+            print("wrong")
+            HINT = random.randint(1,7)
+            if HINT == 1:
+               print(YEAR)
+            elif HINT == 2:
+               print(CAM)
+            elif HINT == 3:
+               print(MODE)
+            elif HINT == 4:
+               print("runs on the",ENGINE,"engine")
+            elif HINT == 5:
+               print("made by",COMPANY)
+            elif HINT == 6:
+                print("released on the",CONSOLES)
+            elif HINT == 7:
+                print(GENRE)
+            else:
+               print("error",HINT)
+        Attempt4 = input("guess the videogame: ")
+        if Attempt4 == GAMENAME:
+            print("correct ")
+            sys.exit()
+        else:
+            print("wrong ")
+            HINT = random.randint(1,7)
+            if HINT == 1:
+               print(YEAR)
+            elif HINT == 2:
+               print(CAM)
+            elif HINT == 3:
+               print(MODE)
+            elif HINT == 4:
+               print("runs on the",ENGINE,"engine")
+            elif HINT == 5:
+               print("made by",COMPANY)
+            elif HINT == 6:
+                print("released on the",CONSOLES)
+            elif HINT == 7:
+                print(GENRE)
+            else:
+               print("error",HINT)
+        Attempt5 = input("guess the videogame: ")
+        if Attempt5 == GAMENAME:
+            print("correct")
+            sys.exit()
+        else:
+            print("wrong the game was", GAMENAME)
+elif videogame == 9:
+        print("Team Fortress classic")
+        GAMENAME = "Team Fortress classic"
+        CAM = "first person"
+        MODE = "Multiplayer"
+        ENGINE = "GoldSource"
+        COMPANY = "Valve"
+        CONSOLES = "Pc"
+        YEAR = "1999"
+        GENRE = "Shooter"
+        HINT = random.randint(1,7)
+        if HINT == 1:
+            print(YEAR)
+        elif HINT == 2:
+            print(CAM)
+        elif HINT == 3:
+            print(MODE)
+        elif HINT == 4:
+            print("runs on the",ENGINE,"engine")
+        elif HINT == 5:
+            print("made by",COMPANY)
+        elif HINT == 6:
+            print("released on the",CONSOLES)
+        elif HINT == 7:
+            print(GENRE)
+        else:
+            print("error",HINT)
+        Attempt1 = input("Guess the videogame: ")
+        if Attempt1 == GAMENAME:
+            print("correct")
+            sys.exit()
+        else:
+            print("wrong")
+            HINT = random.randint(1,7)
+            if HINT == 1:
+               print(YEAR)
+            elif HINT == 2:
+               print(CAM)
+            elif HINT == 3:
+               print(MODE)
+            elif HINT == 4:
+               print("runs on the",ENGINE,"engine")
+            elif HINT == 5:
+               print("made by",COMPANY)
+            elif HINT == 6:
+                print("released on the",CONSOLES)
+            elif HINT == 7:
+                print(GENRE)
+            else:
+               print("error",HINT)
+        Attempt2 = input("guess the videogame: ")
+        if Attempt2 == GAMENAME:
+            print("correct ")
+            sys.exit()
+        else:
+            print("wrong ")
+            HINT = random.randint(1,7)
+            if HINT == 1:
+               print(YEAR)
+            elif HINT == 2:
+               print(CAM)
+            elif HINT == 3:
+               print(MODE)
+            elif HINT == 4:
+               print("runs on the",ENGINE,"engine")
+            elif HINT == 5:
+               print("made by",COMPANY)
+            elif HINT == 6:
+                print("released on the",CONSOLES)
+            elif HINT == 7:
+                print(GENRE)
+            else:
+               print("error",HINT)
+        Attempt3 = input("guess the videogame: ")
+        if Attempt3 == GAMENAME:
+            print("correct")
+            sys.exit()
+        else:
+            print("wrong")
+            HINT = random.randint(1,7)
+            if HINT == 1:
+               print(YEAR)
+            elif HINT == 2:
+               print(CAM)
+            elif HINT == 3:
+               print(MODE)
+            elif HINT == 4:
+               print("runs on the",ENGINE,"engine")
+            elif HINT == 5:
+               print("made by",COMPANY)
+            elif HINT == 6:
+                print("released on the",CONSOLES)
+            elif HINT == 7:
+                print(GENRE)
+            else:
+               print("error",HINT)
+        Attempt4 = input("guess the videogame: ")
+        if Attempt4 == GAMENAME:
+            print("correct ")
+            sys.exit()
+        else:
+            print("wrong ")
+            HINT = random.randint(1,7)
+            if HINT == 1:
+               print(YEAR)
+            elif HINT == 2:
+               print(CAM)
+            elif HINT == 3:
+               print(MODE)
+            elif HINT == 4:
+               print("runs on the",ENGINE,"engine")
+            elif HINT == 5:
+               print("made by",COMPANY)
+            elif HINT == 6:
+                print("released on the",CONSOLES)
+            elif HINT == 7:
+                print(GENRE)
+            else:
+               print("error",HINT)
+        Attempt5 = input("guess the videogame: ")
+        if Attempt5 == GAMENAME:
+            print("correct")
+            sys.exit()
+        else:
+            print("wrong the game was", GAMENAME)
+elif videogame == 10:
+        print("Counter-Strike: Source")
+        GAMENAME = "Counter-Strike: Source"
+        CAM = "first person"
+        MODE = "Singleplayer,Multiplayer"
+        ENGINE = "Source"
+        COMPANY = "Valve"
+        CONSOLES = "Pc"
+        YEAR = "2004"
+        GENRE = "Shooter"
+        HINT = random.randint(1,7)
+        if HINT == 1:
+            print(YEAR)
+        elif HINT == 2:
+            print(CAM)
+        elif HINT == 3:
+            print(MODE)
+        elif HINT == 4:
+            print("runs on the",ENGINE,"engine")
+        elif HINT == 5:
+            print("made by",COMPANY)
+        elif HINT == 6:
+            print("released on the",CONSOLES)
+        elif HINT == 7:
+            print(GENRE)
+        else:
+            print("error",HINT)
+        Attempt1 = input("Guess the videogame: ")
+        if Attempt1 == GAMENAME:
+            print("correct")
+            sys.exit()
+        else:
+            print("wrong")
+            HINT = random.randint(1,7)
+            if HINT == 1:
+               print(YEAR)
+            elif HINT == 2:
+               print(CAM)
+            elif HINT == 3:
+               print(MODE)
+            elif HINT == 4:
+               print("runs on the",ENGINE,"engine")
+            elif HINT == 5:
+               print("made by",COMPANY)
+            elif HINT == 6:
+                print("released on the",CONSOLES)
+            elif HINT == 7:
+                print(GENRE)
+            else:
+               print("error",HINT)
+        Attempt2 = input("guess the videogame: ")
+        if Attempt2 == GAMENAME:
+            print("correct ")
+            sys.exit()
+        else:
+            print("wrong ")
+            HINT = random.randint(1,7)
+            if HINT == 1:
+               print(YEAR)
+            elif HINT == 2:
+               print(CAM)
+            elif HINT == 3:
+               print(MODE)
+            elif HINT == 4:
+               print("runs on the",ENGINE,"engine")
+            elif HINT == 5:
+               print("made by",COMPANY)
+            elif HINT == 6:
+                print("released on the",CONSOLES)
+            elif HINT == 7:
+                print(GENRE)
+            else:
+               print("error",HINT)
+        Attempt3 = input("guess the videogame: ")
+        if Attempt3 == GAMENAME:
+            print("correct")
+            sys.exit()
+        else:
+            print("wrong")
+            HINT = random.randint(1,7)
+            if HINT == 1:
+               print(YEAR)
+            elif HINT == 2:
+               print(CAM)
+            elif HINT == 3:
+               print(MODE)
+            elif HINT == 4:
+               print("runs on the",ENGINE,"engine")
+            elif HINT == 5:
+               print("made by",COMPANY)
+            elif HINT == 6:
+                print("released on the",CONSOLES)
+            elif HINT == 7:
+                print(GENRE)
+            else:
+               print("error",HINT)
+        Attempt4 = input("guess the videogame: ")
+        if Attempt4 == GAMENAME:
+            print("correct ")
+            sys.exit()
+        else:
+            print("wrong ")
+            HINT = random.randint(1,7)
+            if HINT == 1:
+               print(YEAR)
+            elif HINT == 2:
+               print(CAM)
+            elif HINT == 3:
+               print(MODE)
+            elif HINT == 4:
+               print("runs on the",ENGINE,"engine")
+            elif HINT == 5:
+               print("made by",COMPANY)
+            elif HINT == 6:
+                print("released on the",CONSOLES)
+            elif HINT == 7:
+                print(GENRE)
+            else:
+               print("error",HINT)
+        Attempt5 = input("guess the videogame: ")
+        if Attempt5 == GAMENAME:
+            print("correct")
+            sys.exit()
+        else:
+            print("wrong the game was", GAMENAME)
+elif videogame == 3:
+        GAMENAME = "Half-life 2"
+        CAM = "first person"
+        MODE = "singleplayer"
+        ENGINE = "Source"
+        COMPANY = "Valve"
+        CONSOLES = "Pc, xbox, xbox 360, Playstation 3"
+        YEAR = "2004"
+        GENRE = "Shooter"
+        HINT = random.randint(1,7)
+        if HINT == 1:
+            print(YEAR)
+        elif HINT == 2:
+            print(CAM)
+        elif HINT == 3:
+            print(MODE)
+        elif HINT == 4:
+            print("runs on the",ENGINE,"engine")
+        elif HINT == 5:
+            print("made by",COMPANY)
+        elif HINT == 6:
+            print("released on the",CONSOLES)
+        elif HINT == 7:
+            print(GENRE)
+        else:
+            print("error",HINT)
+        Attempt1 = input("Guess the videogame: ")
+        if Attempt1 == GAMENAME:
+            print("correct")
+            sys.exit()
+        else:
+            print("wrong")
+            HINT = random.randint(1,7)
+            if HINT == 1:
+               print(YEAR)
+            elif HINT == 2:
+               print(CAM)
+            elif HINT == 3:
+               print(MODE)
+            elif HINT == 4:
+               print("runs on the",ENGINE,"engine")
+            elif HINT == 5:
+               print("made by",COMPANY)
+            elif HINT == 6:
+                print("released on the",CONSOLES)
+            elif HINT == 7:
+                print(GENRE)
+            else:
+               print("error",HINT)
+        Attempt2 = input("guess the videogame: ")
+        if Attempt2 == GAMENAME:
+            print("correct ")
+            sys.exit()
+        else:
+            print("wrong ")
+            HINT = random.randint(1,7)
+            if HINT == 1:
+               print(YEAR)
+            elif HINT == 2:
+               print(CAM)
+            elif HINT == 3:
+               print(MODE)
+            elif HINT == 4:
+               print("runs on the",ENGINE,"engine")
+            elif HINT == 5:
+               print("made by",COMPANY)
+            elif HINT == 6:
+                print("released on the",CONSOLES)
+            elif HINT == 7:
+                print(GENRE)
+            else:
+               print("error",HINT)
+        Attempt3 = input("guess the videogame: ")
+        if Attempt3 == GAMENAME:
+            print("correct")
+            sys.exit()
+        else:
+            print("wrong")
+            HINT = random.randint(1,7)
+            if HINT == 1:
+               print(YEAR)
+            elif HINT == 2:
+               print(CAM)
+            elif HINT == 3:
+               print(MODE)
+            elif HINT == 4:
+               print("runs on the",ENGINE,"engine")
+            elif HINT == 5:
+               print("made by",COMPANY)
+            elif HINT == 6:
+                print("released on the",CONSOLES)
+            elif HINT == 7:
+                print(GENRE)
+            else:
+               print("error",HINT)
+        Attempt4 = input("guess the videogame: ")
+        if Attempt4 == GAMENAME:
+            print("correct ")
+            sys.exit()
+        else:
+            print("wrong ")
+            HINT = random.randint(1,7)
+            if HINT == 1:
+               print(YEAR)
+            elif HINT == 2:
+               print(CAM)
+            elif HINT == 3:
+               print(MODE)
+            elif HINT == 4:
+               print("runs on the",ENGINE,"engine")
+            elif HINT == 5:
+               print("made by",COMPANY)
+            elif HINT == 6:
+                print("released on the",CONSOLES)
+            elif HINT == 7:
+                print(GENRE)
+            else:
+               print("error",HINT)
+        Attempt5 = input("guess the videogame: ")
+        if Attempt5 == GAMENAME:
+            print("correct")
+            sys.exit()
+        else:
+            print("wrong the game was", GAMENAME)
+elif videogame == 11:
+        print("Counter-Strike: Global Offensive")
+elif videogame == 12:
+        print("R.E.P.O")
+elif videogame == 13:
+        print("Grand theft auto III")
+elif videogame == 14:
+        print("Grand theft auto San andreas")
+elif videogame == 15:
+        print("Grand theft auto Vice city")
+elif videogame == 16:
+        print("Grand theft auto IV")
+elif videogame == 17:
+        print("Grand theft auto V")
+elif videogame == 18:
+        print("Fallout 3")
+elif videogame == 19:
+        print("Fallout New Vegas")
+elif videogame == 20:
+        print("Fallout 4")
+elif videogame == 21:
+        print("Half-life: Blue Shift")
+elif videogame == 22:
+        print("Half-life: Opposing Force")
+elif videogame == 23:
+        print("Left 4 Dead 2")
+elif videogame == 24:
+        print("Portal")
+elif videogame == 25:
+        print("Portal 2")
+elif videogame == 26:
+        print("Hotline Miami 2: Wrong Number")
+elif videogame == 27:
+        print("Hotline Miami")
+elif videogame == 28:
+        print("METAL GEAR SOLID 3: Snake Eater")
+elif videogame == 29:
+        print("PAYDAY 2")
+elif videogame == 30:
+        GAMENAME = "Postal"
+        CAM = "Isometric view"
+        MODE = "singleplayer"
+        ENGINE = "RSPiX"
+        COMPANY = "Running with Scissors"
+        CONSOLES = "Pc"
+        YEAR = "1998"
+        GENRE = "Shoot 'em up"
+        HINT = random.randint(1,7)
+        if HINT == 1:
+            print(YEAR)
+        elif HINT == 2:
+            print(CAM)
+        elif HINT == 3:
+            print(MODE)
+        elif HINT == 4:
+            print("runs on the",ENGINE,"engine")
+        elif HINT == 5:
+            print("made by",COMPANY)
+        elif HINT == 6:
+            print("released on the",CONSOLES)
+        elif HINT == 7:
+            print(GENRE)
+        else:
+            print("error",HINT)
+        Attempt1 = input("Guess the videogame: ")
+        if Attempt1 == GAMENAME:
+            print("correct")
+            sys.exit()
+        else:
+            print("wrong")
+            HINT = random.randint(1,7)
+            if HINT == 1:
+               print(YEAR)
+            elif HINT == 2:
+               print(CAM)
+            elif HINT == 3:
+               print(MODE)
+            elif HINT == 4:
+               print("runs on the",ENGINE,"engine")
+            elif HINT == 5:
+               print("made by",COMPANY)
+            elif HINT == 6:
+                print("released on the",CONSOLES)
+            elif HINT == 7:
+                print(GENRE)
+            else:
+               print("error",HINT)
+        Attempt2 = input("guess the videogame: ")
+        if Attempt2 == GAMENAME:
+            print("correct ")
+            sys.exit()
+        else:
+            print("wrong ")
+            HINT = random.randint(1,7)
+            if HINT == 1:
+               print(YEAR)
+            elif HINT == 2:
+               print(CAM)
+            elif HINT == 3:
+               print(MODE)
+            elif HINT == 4:
+               print("runs on the",ENGINE,"engine")
+            elif HINT == 5:
+               print("made by",COMPANY)
+            elif HINT == 6:
+                print("released on the",CONSOLES)
+            elif HINT == 7:
+                print(GENRE)
+            else:
+               print("error",HINT)
+        Attempt3 = input("guess the videogame: ")
+        if Attempt3 == GAMENAME:
+            print("correct")
+            sys.exit()
+        else:
+            print("wrong")
+            HINT = random.randint(1,7)
+            if HINT == 1:
+               print(YEAR)
+            elif HINT == 2:
+               print(CAM)
+            elif HINT == 3:
+               print(MODE)
+            elif HINT == 4:
+               print("runs on the",ENGINE,"engine")
+            elif HINT == 5:
+               print("made by",COMPANY)
+            elif HINT == 6:
+                print("released on the",CONSOLES)
+            elif HINT == 7:
+                print(GENRE)
+            else:
+               print("error",HINT)
+        Attempt4 = input("guess the videogame: ")
+        if Attempt4 == GAMENAME:
+            print("correct ")
+            sys.exit()
+        else:
+            print("wrong ")
+            HINT = random.randint(1,7)
+            if HINT == 1:
+               print(YEAR)
+            elif HINT == 2:
+               print(CAM)
+            elif HINT == 3:
+               print(MODE)
+            elif HINT == 4:
+               print("runs on the",ENGINE,"engine")
+            elif HINT == 5:
+               print("made by",COMPANY)
+            elif HINT == 6:
+                print("released on the",CONSOLES)
+            elif HINT == 7:
+                print(GENRE)
+            else:
+               print("error",HINT)
+        Attempt5 = input("guess the videogame: ")
+        if Attempt5 == GAMENAME:
+            print("correct")
+            sys.exit()
+        else:
+            print("wrong the game was", GAMENAME)
+elif videogame == 31:
+        print("Postal 2")
+elif videogame == 32:
+        GAMENAME = "Postal Redux"
+        CAM = "Isometric view"
+        MODE = "Singleplayer,Multiplayer"
+        ENGINE = "Unreal Engine 4"
+        COMPANY = "Running with Scissors"
+        CONSOLES = "Pc, Nintendo sSwitch"
+        YEAR = "2016"
+        GENRE = "Shoot 'em up"
+        HINT = random.randint(1,7)
+        if HINT == 1:
+            print(YEAR)
+        elif HINT == 2:
+            print(CAM)
+        elif HINT == 3:
+            print(MODE)
+        elif HINT == 4:
+            print("runs on the",ENGINE,"engine")
+        elif HINT == 5:
+            print("made by",COMPANY)
+        elif HINT == 6:
+            print("released on the",CONSOLES)
+        elif HINT == 7:
+            print(GENRE)
+        else:
+            print("error",HINT)
+        Attempt1 = input("Guess the videogame: ")
+        if Attempt1 == GAMENAME:
+            print("correct")
+            sys.exit()
+        else:
+            print("wrong")
+            HINT = random.randint(1,7)
+            if HINT == 1:
+               print(YEAR)
+            elif HINT == 2:
+               print(CAM)
+            elif HINT == 3:
+               print(MODE)
+            elif HINT == 4:
+               print("runs on the",ENGINE,"engine")
+            elif HINT == 5:
+               print("made by",COMPANY)
+            elif HINT == 6:
+                print("released on the",CONSOLES)
+            elif HINT == 7:
+                print(GENRE)
+            else:
+               print("error",HINT)
+        Attempt2 = input("guess the videogame: ")
+        if Attempt2 == GAMENAME:
+            print("correct ")
+            sys.exit()
+        else:
+            print("wrong ")
+            HINT = random.randint(1,7)
+            if HINT == 1:
+               print(YEAR)
+            elif HINT == 2:
+               print(CAM)
+            elif HINT == 3:
+               print(MODE)
+            elif HINT == 4:
+               print("runs on the",ENGINE,"engine")
+            elif HINT == 5:
+               print("made by",COMPANY)
+            elif HINT == 6:
+                print("released on the",CONSOLES)
+            elif HINT == 7:
+                print(GENRE)
+            else:
+               print("error",HINT)
+        Attempt3 = input("guess the videogame: ")
+        if Attempt3 == GAMENAME:
+            print("correct")
+            sys.exit()
+        else:
+            print("wrong")
+            HINT = random.randint(1,7)
+            if HINT == 1:
+               print(YEAR)
+            elif HINT == 2:
+               print(CAM)
+            elif HINT == 3:
+               print(MODE)
+            elif HINT == 4:
+               print("runs on the",ENGINE,"engine")
+            elif HINT == 5:
+               print("made by",COMPANY)
+            elif HINT == 6:
+                print("released on the",CONSOLES)
+            elif HINT == 7:
+                print(GENRE)
+            else:
+               print("error",HINT)
+        Attempt4 = input("guess the videogame: ")
+        if Attempt4 == GAMENAME:
+            print("correct ")
+            sys.exit()
+        else:
+            print("wrong ")
+            HINT = random.randint(1,7)
+            if HINT == 1:
+               print(YEAR)
+            elif HINT == 2:
+               print(CAM)
+            elif HINT == 3:
+               print(MODE)
+            elif HINT == 4:
+               print("runs on the",ENGINE,"engine")
+            elif HINT == 5:
+               print("made by",COMPANY)
+            elif HINT == 6:
+                print("released on the",CONSOLES)
+            elif HINT == 7:
+                print(GENRE)
+            else:
+               print("error",HINT)
+        Attempt5 = input("guess the videogame: ")
+        if Attempt5 == GAMENAME:
+            print("correct")
+            sys.exit()
+        else:
+            print("wrong the game was", GAMENAME)
+elif videogame == 33:
+        print("Red Dead Redemption")
+elif videogame == 34:
+        print("Red Dead Redemption 2")
+elif videogame == 35:
+        print("War Thunder")
+elif videogame == 36:
+        print("ULTRAKILL")
+elif videogame == 37:
+        print("BRAZILIAN DRUG DEALER 3:I OPENED A PORTAL TO HELL TRYING TO REVIVE MIT AIA I NEED TO CLOSE IT")
+elif videogame == 38:
+        print("Call of Duty")
+elif videogame == 39:
+        print("Call of Duty 2")
+elif videogame == 40:
+        print("Call of Duty 4: Modern Warfare")
+elif videogame == 41:
+        print("Call of Duty: Modern Warfare 2")
+elif videogame == 42:
+        print("Call of Duty: Modern Warfare 3")
+elif videogame == 43:
+        print("Call of Duty: World at War")
+elif videogame == 44:
+        print("Castle Crashers")
+elif videogame == 45:
+        print("Cry of Fear")
+elif videogame == 46:
+        print("Cuphead")
+elif videogame == 47:
+        print("Five Nights at Freedy's")
+elif videogame == 48:
+        print("Five Nights at Freedy's 2")
+elif videogame == 49:
+        print("Five Nights at Freedy's 3")
+elif videogame == 50:
+        print("Getting Over It with Bennett Foddy")
+elif videogame == 51:
+        print("My Summer Car")
+elif videogame == 52:
+        print("SYNTHETIK")
+elif videogame == 53:
+        print("Umamusume: Pretty Derby")
+elif videogame == 54:
+        print("Unturned")
+elif videogame == 55:
+        print("Teardown")
+elif videogame == 56:
+        print("Poly Bridge")
+elif videogame == 57:
+        print("Poly Bridge 2")
+elif videogame == 58:
+        print("Max Payne")
+elif videogame == 59:
+        print("Max Payne 2: The Fall of Max Payne")
+elif videogame == 60:
+        print("Max Payne 3")
+elif videogame == 61:
+        print("Lethal Company")
+elif videogame == 62:
+        print("Hello Neighbor")
+elif videogame == 63:
+        print("Halo: Reach")
+elif videogame == 64:
+        print("Halo: Combat Evolved")
+elif videogame == 65:
+        print("People Playground")
+elif videogame == 66:
+        print("Buckshot Roulette")
+elif videogame == 67:
+        print("Geometry Dash")
+elif videogame == 68:
+        print("Don't Starve")
+elif videogame == 69:
+        print("Counter-Strike")
+        GAMENAME = "Counter-Strike"
+        CAM = "first person"
+        MODE = "singleplayer,Multiplayer"
+        ENGINE = "GoldSource"
+        COMPANY = "Valve"
+        CONSOLES = "Pc"
+        YEAR = "1998"
+        GENRE = "Shooter"
+        HINT = random.randint(1,7)
+        if HINT == 1:
+            print(YEAR)
+        elif HINT == 2:
+            print(CAM)
+        elif HINT == 3:
+            print(MODE)
+        elif HINT == 4:
+            print("runs on the",ENGINE,"engine")
+        elif HINT == 5:
+            print("made by",COMPANY)
+        elif HINT == 6:
+            print("released on the",CONSOLES)
+        elif HINT == 7:
+            print(GENRE)
+        else:
+            print("error",HINT)
+        Attempt1 = input("Guess the videogame: ")
+        if Attempt1 == GAMENAME:
+            print("correct")
+            sys.exit()
+        else:
+            print("wrong")
+            HINT = random.randint(1,7)
+            if HINT == 1:
+               print(YEAR)
+            elif HINT == 2:
+               print(CAM)
+            elif HINT == 3:
+               print(MODE)
+            elif HINT == 4:
+               print("runs on the",ENGINE,"engine")
+            elif HINT == 5:
+               print("made by",COMPANY)
+            elif HINT == 6:
+                print("released on the",CONSOLES)
+            elif HINT == 7:
+                print(GENRE)
+            else:
+               print("error",HINT)
+        Attempt2 = input("guess the videogame: ")
+        if Attempt2 == GAMENAME:
+            print("correct ")
+            sys.exit()
+        else:
+            print("wrong ")
+            HINT = random.randint(1,7)
+            if HINT == 1:
+               print(YEAR)
+            elif HINT == 2:
+               print(CAM)
+            elif HINT == 3:
+               print(MODE)
+            elif HINT == 4:
+               print("runs on the",ENGINE,"engine")
+            elif HINT == 5:
+               print("made by",COMPANY)
+            elif HINT == 6:
+                print("released on the",CONSOLES)
+            elif HINT == 7:
+                print(GENRE)
+            else:
+               print("error",HINT)
+        Attempt3 = input("guess the videogame: ")
+        if Attempt3 == GAMENAME:
+            print("correct")
+            sys.exit()
+        else:
+            print("wrong")
+            HINT = random.randint(1,7)
+            if HINT == 1:
+               print(YEAR)
+            elif HINT == 2:
+               print(CAM)
+            elif HINT == 3:
+               print(MODE)
+            elif HINT == 4:
+               print("runs on the",ENGINE,"engine")
+            elif HINT == 5:
+               print("made by",COMPANY)
+            elif HINT == 6:
+                print("released on the",CONSOLES)
+            elif HINT == 7:
+                print(GENRE)
+            else:
+               print("error",HINT)
+        Attempt4 = input("guess the videogame: ")
+        if Attempt4 == GAMENAME:
+            print("correct ")
+            sys.exit()
+        else:
+            print("wrong ")
+            HINT = random.randint(1,7)
+            if HINT == 1:
+               print(YEAR)
+            elif HINT == 2:
+               print(CAM)
+            elif HINT == 3:
+               print(MODE)
+            elif HINT == 4:
+               print("runs on the",ENGINE,"engine")
+            elif HINT == 5:
+               print("made by",COMPANY)
+            elif HINT == 6:
+                print("released on the",CONSOLES)
+            elif HINT == 7:
+                print(GENRE)
+            else:
+               print("error",HINT)
+        Attempt5 = input("guess the videogame: ")
+        if Attempt5 == GAMENAME:
+            print("correct")
+            sys.exit()
+        else:
+            print("wrong the game was", GAMENAME)
+elif videogame == 3:
+        GAMENAME = "Half-life 2"
+        CAM = "first person"
+        MODE = "singleplayer"
+        ENGINE = "Source"
+        COMPANY = "Valve"
+        CONSOLES = "Pc, xbox, xbox 360, Playstation 3"
+        YEAR = "2004"
+        GENRE = "Shooter"
+        HINT = random.randint(1,7)
+        if HINT == 1:
+            print(YEAR)
+        elif HINT == 2:
+            print(CAM)
+        elif HINT == 3:
+            print(MODE)
+        elif HINT == 4:
+            print("runs on the",ENGINE,"engine")
+        elif HINT == 5:
+            print("made by",COMPANY)
+        elif HINT == 6:
+            print("released on the",CONSOLES)
+        elif HINT == 7:
+            print(GENRE)
+        else:
+            print("error",HINT)
+        Attempt1 = input("Guess the videogame: ")
+        if Attempt1 == GAMENAME:
+            print("correct")
+            sys.exit()
+        else:
+            print("wrong")
+            HINT = random.randint(1,7)
+            if HINT == 1:
+               print(YEAR)
+            elif HINT == 2:
+               print(CAM)
+            elif HINT == 3:
+               print(MODE)
+            elif HINT == 4:
+               print("runs on the",ENGINE,"engine")
+            elif HINT == 5:
+               print("made by",COMPANY)
+            elif HINT == 6:
+                print("released on the",CONSOLES)
+            elif HINT == 7:
+                print(GENRE)
+            else:
+               print("error",HINT)
+        Attempt2 = input("guess the videogame: ")
+        if Attempt2 == GAMENAME:
+            print("correct ")
+            sys.exit()
+        else:
+            print("wrong ")
+            HINT = random.randint(1,7)
+            if HINT == 1:
+               print(YEAR)
+            elif HINT == 2:
+               print(CAM)
+            elif HINT == 3:
+               print(MODE)
+            elif HINT == 4:
+               print("runs on the",ENGINE,"engine")
+            elif HINT == 5:
+               print("made by",COMPANY)
+            elif HINT == 6:
+                print("released on the",CONSOLES)
+            elif HINT == 7:
+                print(GENRE)
+            else:
+               print("error",HINT)
+        Attempt3 = input("guess the videogame: ")
+        if Attempt3 == GAMENAME:
+            print("correct")
+            sys.exit()
+        else:
+            print("wrong")
+            HINT = random.randint(1,7)
+            if HINT == 1:
+               print(YEAR)
+            elif HINT == 2:
+               print(CAM)
+            elif HINT == 3:
+               print(MODE)
+            elif HINT == 4:
+               print("runs on the",ENGINE,"engine")
+            elif HINT == 5:
+               print("made by",COMPANY)
+            elif HINT == 6:
+                print("released on the",CONSOLES)
+            elif HINT == 7:
+                print(GENRE)
+            else:
+               print("error",HINT)
+        Attempt4 = input("guess the videogame: ")
+        if Attempt4 == GAMENAME:
+            print("correct ")
+            sys.exit()
+        else:
+            print("wrong ")
+            HINT = random.randint(1,7)
+            if HINT == 1:
+               print(YEAR)
+            elif HINT == 2:
+               print(CAM)
+            elif HINT == 3:
+               print(MODE)
+            elif HINT == 4:
+               print("runs on the",ENGINE,"engine")
+            elif HINT == 5:
+               print("made by",COMPANY)
+            elif HINT == 6:
+                print("released on the",CONSOLES)
+            elif HINT == 7:
+                print(GENRE)
+            else:
+               print("error",HINT)
+        Attempt5 = input("guess the videogame: ")
+        if Attempt5 == GAMENAME:
+            print("correct")
+            sys.exit()
+        else:
+            print("wrong the game was", GAMENAME)
+elif videogame == 70:
+        print("The Binding of Issac: Rebirth")
+else:
+        print(videogame,"error")
